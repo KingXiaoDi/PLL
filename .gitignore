@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Other stuff
+.Rhistory
+.Rproj.user/*
+data/*
+Legal Stuff/*
+Replays/*
+rosterScrape.py
+*.png
+*.Rproj
+.Rproj.user
