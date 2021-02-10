@@ -18,7 +18,7 @@ The goal is to have this work complete in time for the PLL's 2021 season, tentat
 - Fast break (including advantage numbers, e.g. 4v3, 5v4, etc.) or settled
 - Current score (not directly available, but calculable from the rest of the data)
 
-#### Future charting could include further information about the shot itself (some charting already complete):
+#### Future charting could include further information about the shot itself (some of these are already partially charted):
 - Time remaining on shot clock
 - Was the shot a bounce shot and/or a jump shot?
 - Did the player enter the crease after scoring?
