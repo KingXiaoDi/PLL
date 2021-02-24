@@ -1,6 +1,8 @@
 # PLL
 A repository to track stats and dashboards for the Premier Lacrosse League (PLL).
 
+Some work already completed can be seen here (absolutely a WIP): https://p4h.dev/pll/summary
+
 ### Plan
 Flesh out the current statistical offerings from the PLL (examples [here](https://stats.premierlacrosseleague.com/)). Lean heavily on hockey as an example. Possibilities range from simple scoring and penalty summaries (example [here](https://www.hockey-reference.com/boxscores/202102080CBJ.html); I've been unable to find this sort of summary anywhere from the PLL) to more advanced displays (see [Moneypuck](http://moneypuck.com/g.htm?id=2020020203)) and statistical analyses (see [@IneffectiveMath's](https://twitter.com/IneffectiveMath/) website [HockeyViz](https://hockeyviz.com/)).
 
